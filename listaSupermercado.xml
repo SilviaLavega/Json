@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<supermercados>
+		<nombre>mercadona</nombre>
+		<direccion>C. del Dr. Iranzo, 61, 50002 Zaragoza</direccion>
+		<geolocalizacion>41.64774582247237, -0.8646631621932517</geolocalizacion>
+		<producto>
+			<nombre>pollo entero</nombre>
+			<categoria>carne</categoria>
+			<unidades>1</unidades>
+			<unidMedida>kilo</unidMedida>
+         <periodo_vigencia>
+            <inicio>2023-06-12</inicio>
+            <fin>2023-06-20</fin>
+         </periodo_vigencia>
+			<oferta>false</oferta>
+			<precio>7.25</precio>
+			<adquirido>false</adquirido>
+		</producto>
+		<producto>
+			<nombre>arroz redondo</nombre>
+			<categoria>arroz, pasta y legumbres</categoria>
+			<unidades>1</unidades>
+			<unidMedida>kilo</unidMedida>
+         <periodo_vigencia>
+            <inicio>2023-05-20</inicio>
+            <fin>2023-08-10</fin>
+         </periodo_vigencia>
+			<oferta>false</oferta>
+			<precio>1.30</precio>
+			<adquirido>true</adquirido>
+		</producto>
+		<producto>
+			<nombre>pate de pato</nombre>
+			<categoria>enlatados</categoria>
+			<unidades>3</unidades>
+			<unidMedida>latas</unidMedida>
+         <periodo_vigencia>
+            <inicio>2023-03-27</inicio>
+            <fin>2023-06-20</fin>
+         </periodo_vigencia>
+			<oferta>false</oferta>
+			<precio>3.60</precio>
+			<adquirido>false</adquirido>
+		</producto>
+		<producto>
+			<nombre>Platanos</nombre>
+			<categoria>fruta</categoria>
+			<unidades>0.7</unidades>
+			<unidMedida>kilo</unidMedida>
+         <periodo_vigencia>
+            <inicio>2023-06-10</inicio>
+            <fin>2023-06-31</fin>
+         </periodo_vigencia>
+			<oferta>false</oferta>
+			<precio>3.29</precio>
+			<adquirido>true</adquirido>
+		</producto>
+	</supermercados>
+	<supermercados>
+		<nombre>Alcampo</nombre>
+		<direccion>Av. del Tenor Fleta, 44, 50007 Zaragoza</direccion>
+		<geolocalizacion>41.640104591169, -0.8814126454987908</geolocalizacion>
+		<producto>
+			<nombre>pollo entero</nombre>
+			<categoria>carne</categoria>
+			<unidades>1</unidades>
+			<unidMedida>kilo</unidMedida>
+         <periodo_vigencia>
+            <inicio>2023-06-12</inicio>
+            <fin>2023-06-20</fin>
+         </periodo_vigencia>
+			<oferta>false</oferta>
+			<precio>9.25</precio>
+			<adquirido>false</adquirido>
+		</producto>
+		<producto>
+			<nombre>arroz redondo</nombre>
+			<categoria>arroz, pasta y legumbres</categoria>
+			<unidades>1</unidades>
+			<unidMedida>kilo</unidMedida>
+         <periodo_vigencia>
+            <inicio>2023-05-20</inicio>
+            <fin>2023-08-10</fin>
+         </periodo_vigencia>
+			<oferta>false</oferta>
+			<precio>1.00</precio>
+			<adquirido>true</adquirido>
+		</producto>
+		<producto>
+			<nombre>pate de pato</nombre>
+			<categoria>enlatados</categoria>
+			<unidades>3</unidades>
+			<unidMedida>latas</unidMedida>
+         <periodo_vigencia>
+            <inicio>2023-03-27</inicio>
+            <fin>2023-06-20</fin>
+         </periodo_vigencia>
+			<oferta>false</oferta>
+			<precio>3.90</precio>
+			<adquirido>false</adquirido>
+		</producto>
+		<producto>
+			<nombre>Platanos</nombre>
+			<categoria>fruta</categoria>
+			<unidades>0.7</unidades>
+			<unidMedida>kilo</unidMedida>
+         <periodo_vigencia>
+            <inicio>2023-06-10</inicio>
+            <fin>2023-06-31</fin>
+         </periodo_vigencia>
+			<oferta>false</oferta>
+			<precio>2.90</precio>
+			<adquirido>true</adquirido>
+		</producto>
+	</supermercados>
+	<supermercados>
+		<nombre>DIA</nombre>
+		<direccion>C. del Doce de Octubre, 31, 33, 50007 Zaragoza</direccion>
+		<geolocalizacion>41.63808988529282, -0.8775749322025432</geolocalizacion>
+		<producto>
+			<nombre>pollo entero</nombre>
+			<categoria>carne</categoria>
+			<unidades>1</unidades>
+			<unidMedida>kilo</unidMedida>
+         <periodo_vigencia>
+            <inicio>2023-06-12</inicio>
+            <fin>2023-06-20</fin>
+         </periodo_vigencia>
+			<oferta>false</oferta>
+			<precio>7.20</precio>
+			<adquirido>false</adquirido>
+		</producto>
+		<producto>
+			<nombre>arroz redondo</nombre>
+			<categoria>arroz, pasta y legumbres</categoria>
+			<unidades>1</unidades>
+			<unidMedida>kilo</unidMedida>
+         <periodo_vigencia>
+            <inicio>2023-05-20</inicio>
+            <fin>2023-08-10</fin>
+         </periodo_vigencia>
+			<oferta>false</oferta>
+			<precio>1.60</precio>
+			<adquirido>true</adquirido>
+		</producto>
+		<producto>
+			<nombre>pate de pato</nombre>
+			<categoria>enlatados</categoria>
+			<unidades>3</unidades>
+			<unidMedida>latas</unidMedida>
+         <periodo_vigencia>
+            <inicio>2023-03-27</inicio>
+            <fin>2023-06-20</fin>
+         </periodo_vigencia>
+			<oferta>false</oferta>
+			<precio>2.20</precio>
+			<adquirido>false</adquirido>
+		</producto>
+		<producto>
+			<nombre>Platanos</nombre>
+			<categoria>fruta</categoria>
+			<unidades>0.7</unidades>
+			<unidMedida>kilo</unidMedida>
+         <periodo_vigencia>
+            <inicio>2023-06-10</inicio>
+            <fin>2023-06-31</fin>
+         </periodo_vigencia>
+			<oferta>false</oferta>
+			<precio>4.50</precio>
+			<adquirido>true</adquirido>
+		</producto>
+	</supermercados>
